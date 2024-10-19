@@ -1,6 +1,6 @@
 [
   {
-    "url": "/demo",
+    "url": "/",
     "logoRedirect": "/",
     "description": "With highly flexible blocks, you can easily build a page without coding.\nDesigned by [Seju](https://www.figma.com/@sejal_ui_ux)",
     "copyright": "© NovaJAM 2024 | All rights reserved.",
@@ -33,7 +33,7 @@
           {
             "text": "Github",
             "openNewTab": true,
-            "url": "https://github.com/minhwpm/novajam",
+            "url": "/",
             "id": "7grbuSkPuBtPQra8Z5TuDz"
           }
         ]
