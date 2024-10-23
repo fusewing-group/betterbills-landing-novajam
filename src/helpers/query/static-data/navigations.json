@@ -14,37 +14,37 @@
     "hotButtons": [],
     "menu": [
       {
-        "text": "Demos",
+        "text": "Docs",
         "openNewTab": false,
-        "url": "#",
+        "url": "/Docs",
         "contentType": "link",
         "id": "65W7NxA30f1uMZQYATh82F"
-      },
-      {
-        "text": "Pages",
-        "openNewTab": false,
-        "url": "#",
-        "contentType": "link",
-        "id": "7vk12KytZnBR9TmLRtJ7yP"
-      },
-      {
-        "text": "Support",
-        "openNewTab": false,
-        "url": "/contact",
-        "contentType": "link",
-        "id": "4ngKgcUDs2b5zsMGcuFzQY"
-      },
-      {
-        "text": "Contact",
-        "openNewTab": false,
-        "url": "/contact",
-        "contentType": "link",
-        "id": "kdsKP2AdvJXQrLLMXiAo8"
       },
       {
         "text": "Blog",
         "openNewTab": false,
         "url": "/blog",
+        "contentType": "link",
+        "id": "7vk12KytZnBR9TmLRtJ7yP"
+      },
+      {
+        "text": "About",
+        "openNewTab": false,
+        "url": "/About",
+        "contentType": "link",
+        "id": "4ngKgcUDs2b5zsMGcuFzQY"
+      },
+      {
+        "text": "Success Stories",
+        "openNewTab": false,
+        "url": "/SuccessStories",
+        "contentType": "link",
+        "id": "kdsKP2AdvJXQrLLMXiAo8"
+      },
+      {
+        "text": "Pricing",
+        "openNewTab": false,
+        "url": "/Pricing",
         "contentType": "link",
         "id": "7mdtqZenlZqnHJji1p5FGt"
       }
@@ -52,7 +52,7 @@
     "buttons": [
       {
         "buttonLabel": "Get Started Now",
-        "url": "https://github.com/minhwpm/novajam",
+        "url": "https://betterbills.in",
         "openNewTab": true,
         "buttonVariant": "primary",
         "withArrow": false,

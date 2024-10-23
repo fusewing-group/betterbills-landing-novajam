@@ -24,8 +24,8 @@
         "id": "3ZDANXfutzp0wXlZvQLwy1",
         "htmlid": null,
         "eyebrow": null,
-        "displayTitle": "# Streamline Your Business Operations Today",
-        "summary": "Discover BetterBills—your all-in-one software for managing inventory, sales and much more effortlessly",
+        "displayTitle": "# __Streamline Your Business Operations Today__",
+        "summary": "BetterBills your all in one software for managing inventory, sales and much more effortlessly.",
         "layout": "vertical",
         "alignment": "center",
         "backgroundColor": null,
@@ -42,7 +42,7 @@
         },
         "buttons": [
           {
-            "url": "https://github.com/minhwpm/novajam",
+            "url": "https://betterbills.in",
             "buttonLabel": "Get Started Now",
             "openNewTab": true,
             "buttonVariant": "primary",
@@ -150,14 +150,15 @@
               }
             ]
           }
+          
         ]
       },
       {
         "contentType": "featuredcontent",
         "id": "1zGFW4mlWNyIrZKak3RgTZ",
         "eyebrow": null,
-        "displayTitle": "## __Getting started is easier than ever__",
-        "summary": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page so quickly with NovaJAM.",
+        "displayTitle": "## __Manage Your Business in Minutes__",
+        "summary": "With BetterBills, What once took hours is now completed in just a few clicks. Streamline your operations and focus on what matters the most __growing your business__.",
         "alignment": null,
         "mediaAspectRatio": "auto",
         "switchMediaPosition": null,
@@ -181,7 +182,7 @@
         ],
         "buttons": [
           {
-            "url": "https://github.com/minhwpm/novajam",
+            "url": "https://betterbills.in",
             "buttonLabel": "Get Started Now",
             "openNewTab": true,
             "buttonVariant": "primary",
@@ -213,7 +214,7 @@
         "blocks": [
           {
             "number": "1M+",
-            "text": "Customer visits every months",
+            "text": "Transactions done every months",
             "alignment": "start",
             "layout": "horizontal",
             "contentType": "statistics",
@@ -241,8 +242,8 @@
         "contentType": "featuredcontent",
         "id": "4823oFU355gJM68JvKx46D",
         "eyebrow": null,
-        "displayTitle": "## __Manage your projects fast__",
-        "summary": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.",
+        "displayTitle": "## __Built for You & Your Business__",
+        "summary": "Start managing your business more efficiently.",
         "alignment": "center",
         "mediaAspectRatio": "auto",
         "switchMediaPosition": null,
@@ -269,9 +270,9 @@
             "contentType": "flexiblecontent",
             "id": "4rHbE0KEyTCK9COViWw9rQ",
             "eyebrow": null,
-            "displayTitle": "__Create a project__",
+            "displayTitle": "__Sign Up and Choose the Perfect Plan for Your Business Needs__",
             "tags": null,
-            "summary": "With lots of unique blocks, you can easily build a page without coding. ",
+            "summary": "Choosing the right plan is key to optimizing your business management ",
             "redirectUrl": null,
             "mediaAspectRatio": "auto",
             "alignment": "start",
@@ -292,9 +293,9 @@
             "contentType": "flexiblecontent",
             "id": "1PM1ueJr0W9BOdPGsXpE0c",
             "eyebrow": null,
-            "displayTitle": "__Assign related people__",
+            "displayTitle": "__Complete payment for your plan__",
             "tags": null,
-            "summary": "With lots of unique blocks, you can easily build a page without coding. ",
+            "summary": "Your dashboard is being prepared to manage your business. ",
             "redirectUrl": null,
             "mediaAspectRatio": "auto",
             "alignment": "start",
@@ -315,9 +316,9 @@
             "contentType": "flexiblecontent",
             "id": "1Inkq6jpwMay22OnD1IPkb",
             "eyebrow": null,
-            "displayTitle": "__Make it done on-time__",
+            "displayTitle": "__Access Your Personal Dashboard__",
             "tags": null,
-            "summary": "With lots of unique blocks, you can easily build a page without coding. ",
+            "summary": "Manage every aspect of your business from a centralized, intuitive platform. ",
             "redirectUrl": null,
             "mediaAspectRatio": "auto",
             "alignment": "start",
@@ -357,7 +358,7 @@
         "buttons": [],
         "blocks": [
           {
-            "content": "### __\"You made it so simple\"__\n\nMy new site is so much faster and easier to work with than my old site.",
+            "content": "### __\"You made it so simple\"__\n\nMy business is so much faster and easier to work with than my old site.",
             "name": "Corey Valdez",
             "role": "Founder at Zenix",
             "rating": null,
@@ -399,7 +400,7 @@
         "id": "4QAvfSOypii9YjGuv1QBaw",
         "eyebrow": null,
         "displayTitle": "## __Pricing & Plans__",
-        "summary": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.",
+        "summary": "With a comprehensive suite of features, you can effortlessly manage your business with BetterBills.",
         "htmlid": "pricing",
         "alignment": "center",
         "displayMode": "deck",
@@ -415,17 +416,17 @@
         "buttons": [],
         "blocks": [
           {
-            "title": "STARTER",
-            "pricing": "$19",
+            "title": "Essential",
+            "pricing": "₹1199/-",
             "pricingSuffix": "billed monthly",
             "badge": null,
-            "description": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.\n\n- Up to 100 Team Members\n- 100 GB Cloud Storage\n- Unlimited Meetings\n- Premium Support",
+            "description": "Nothing for now \n- Up to 100 Team Members\n- 100 GB Cloud Storage\n- Unlimited Meetings\n- Premium Support",
             "alignment": null,
             "ctaButton": {
-              "url": "https://github.com/minhwpm/novajam",
+              "url": "https://betterbills.in",
               "buttonLabel": "Get Started Now",
               "openNewTab": true,
-              "buttonVariant": "black",
+              "buttonVariant": "primary",
               "withArrow": false,
               "icon": null
             },
@@ -433,14 +434,14 @@
             "id": "1nHG4ASwqthvwBS2CXZXAZ"
           },
           {
-            "title": "UNLIMITED",
-            "pricing": "$99",
+            "title": "Ultimate",
+            "pricing": "₹2499/-",
             "pricingSuffix": "billed monthly",
             "badge": null,
-            "description": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.\n- Up to 100 Team Members\n- 100 GB Cloud Storage\n- Unlimited Meetings\n- Premium Support",
+            "description": "Nothing for now \n- Up to 100 Team Members\n- 100 GB Cloud Storage\n- Unlimited Meetings\n- Premium Support",
             "alignment": null,
             "ctaButton": {
-              "url": "https://github.com/minhwpm/novajam",
+              "url": "https://betterbills.in",
               "buttonLabel": "Get Started Now",
               "openNewTab": true,
               "buttonVariant": "primary",
@@ -581,7 +582,7 @@
         "id": "4ZdjwSv1l58XmmHgOv2nR2",
         "title": "[SaaS] ALERT",
         "icon": null,
-        "message": "Haven’t got your answer? [Contact our support now](https://novajam.vercel.app/contact)",
+        "message": "Haven’t got your answer? [Contact our support now](https://betterbills.in/contact)",
         "backgroundColor": "#161c2d",
         "darkMode": true
       },
@@ -614,7 +615,7 @@
             "id": "2NLqZAnb15VZ9maNpxPGrt"
           },
           {
-            "url": "https://github.com/minhwpm/novajam",
+            "url": "https://betterbills.in",
             "buttonLabel": "Get Started Now",
             "openNewTab": true,
             "buttonVariant": "primary",
