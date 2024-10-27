@@ -6,7 +6,7 @@
     "layout": "overlay",
     "darkMode": false,
     "logo": {
-      "url": "https://images.ctfassets.net/ehmycbmc25mu/7vvCItsTwfA8tl0SyqlzWT/b8c89a775becaac933165795be38ef05/novajam_logo_black.webp",
+      "url": "/next.svg",
       "title": "novajam logo black",
       "width": 1055,
       "height": 160
@@ -37,14 +37,14 @@
       {
         "text": "Success Stories",
         "openNewTab": false,
-        "url": "/SuccessStories",
+        "url": "/#saas-testimonial",
         "contentType": "link",
         "id": "kdsKP2AdvJXQrLLMXiAo8"
       },
       {
         "text": "Pricing",
         "openNewTab": false,
-        "url": "/Pricing",
+        "url": "/#pricing",
         "contentType": "link",
         "id": "7mdtqZenlZqnHJji1p5FGt"
       }

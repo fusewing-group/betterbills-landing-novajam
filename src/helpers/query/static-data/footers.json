@@ -9,7 +9,7 @@
     "backgroundImage": null,
     "darkMode": false,
     "logo": {
-      "url": "https://images.ctfassets.net/ehmycbmc25mu/7vvCItsTwfA8tl0SyqlzWT/b8c89a775becaac933165795be38ef05/novajam_logo_black.webp",
+      "url": "/next.svg",
       "title": "novajam logo black",
       "width": 1055,
       "height": 160
@@ -35,6 +35,58 @@
             "openNewTab": true,
             "url": "/",
             "id": "7grbuSkPuBtPQra8Z5TuDz"
+          }
+        ]
+      },
+      {
+        "title": "Quick Links",
+        "links": [
+          {
+            "text": "Home",
+            "openNewTab": false,
+            "url": "/",
+            "id": "4jv0HeU7WbuYo2axDzRn3c"
+          },
+          {
+            "text": "Contact",
+            "openNewTab": false,
+            "url": "/contact",
+            "id": "OHZxGCWtdWxsobAaj7EVz"
+          },
+          {
+            "text": "Github",
+            "openNewTab": true,
+            "url": "/",
+            "id": "7grbuSkPuBtPQra8Z5TuDz"
+          }
+        ]
+      },
+      {
+        "title": "Quick Links",
+        "links": [
+          {
+            "text": "Home",
+            "openNewTab": false,
+            "url": "/",
+            "id": "4jv0HeU7WbuYo2axDzRn3c"
+          },
+          {
+            "text": "Legal",
+            "openNewTab": false,
+            "url": "/contact",
+            "id": "OHZxGCWtdWxsobAaj7EVz"
+          },
+          {
+            "text": "Github",
+            "openNewTab": true,
+            "url": "/",
+            "id": "lajksdhjnbwjqdjans"
+          },
+          {
+            "text": "Github 2",
+            "openNewTab": true,
+            "url": "/",
+            "id": "dahcjhaoijdjalnd"
           }
         ]
       }
