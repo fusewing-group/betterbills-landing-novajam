@@ -2,91 +2,85 @@
   {
     "url": "/",
     "logoRedirect": "/",
-    "description": "With highly flexible blocks, you can easily build a page without coding.\nDesigned by [Seju](https://www.figma.com/@sejal_ui_ux)",
-    "copyright": "© NovaJAM 2024 | All rights reserved.",
+    "description": "BetterBills – Streamline billing, manage inventory, and get insightful reports. Simplify your business today!",
+    "copyright": "© Fusewing 2025 | All rights reserved.",
     "sns": null,
     "backgroundColor": null,
     "backgroundImage": null,
     "darkMode": false,
     "logo": {
-      "url": "/next.svg",
-      "title": "novajam logo black",
+      "url": "",
+      "title": "",
       "width": 1055,
       "height": 160
     },
     "menu": [
       {
-        "title": "Quick Links",
+        "title": "Company ",
         "links": [
           {
-            "text": "Home",
+            "text": "About",
             "openNewTab": false,
-            "url": "/",
+            "url": "/about",
             "id": "4jv0HeU7WbuYo2axDzRn3c"
           },
           {
-            "text": "Contact",
+            "text": "Fusewing",
             "openNewTab": false,
-            "url": "/contact",
-            "id": "OHZxGCWtdWxsobAaj7EVz"
+            "url": "https://fusewing.com",
+            "id": "4jv0HeU7WbuYo2axDzRn3c"
           },
           {
-            "text": "Github",
+            "text": "iolabs",
             "openNewTab": true,
-            "url": "/",
+            "url": "https://iolabs.in",
             "id": "7grbuSkPuBtPQra8Z5TuDz"
           }
         ]
       },
       {
-        "title": "Quick Links",
+        "title": "Product",
         "links": [
           {
-            "text": "Home",
+            "text": "Pricing",
             "openNewTab": false,
-            "url": "/",
+            "url": "#pricing",
             "id": "4jv0HeU7WbuYo2axDzRn3c"
           },
           {
-            "text": "Contact",
+            "text": "Blog",
             "openNewTab": false,
-            "url": "/contact",
+            "url": "/Blog",
             "id": "OHZxGCWtdWxsobAaj7EVz"
           },
           {
-            "text": "Github",
-            "openNewTab": true,
-            "url": "/",
-            "id": "7grbuSkPuBtPQra8Z5TuDz"
+            "text": "Success Stories",
+            "openNewTab": false,
+            "url": "#saas-testimonial",
+            "id": "8y6RXZqH9EVGQgdWLieel"
           }
         ]
       },
       {
-        "title": "Quick Links",
+        "title": "Resources",
         "links": [
           {
-            "text": "Home",
+            "text": "Docs",
+            "openNewTab": false,
+            "url": "/Docs",
+            "id": "4jv0HeU7WbuYo2axDzRn3c"
+          },
+          {
+            "text": "Status",
             "openNewTab": false,
             "url": "/",
-            "id": "4jv0HeU7WbuYo2axDzRn3c"
+            "id": "OHZxGCWtdWxsobAaj7EVz"
           },
           {
             "text": "Legal",
-            "openNewTab": false,
-            "url": "/contact",
-            "id": "OHZxGCWtdWxsobAaj7EVz"
-          },
-          {
-            "text": "Github",
             "openNewTab": true,
             "url": "/",
             "id": "lajksdhjnbwjqdjans"
-          },
-          {
-            "text": "Github 2",
-            "openNewTab": true,
-            "url": "/",
-            "id": "dahcjhaoijdjalnd"
           }
         ]
       }
