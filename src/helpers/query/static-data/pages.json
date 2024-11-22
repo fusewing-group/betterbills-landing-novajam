@@ -351,7 +351,7 @@
         "blocks": [
           {
             "number": "1M+",
-            "text": "Transactions done every months",
+            "text": "Transactions recorded every months.",
             "alignment": "start",
             "layout": "horizontal",
             "contentType": "statistics",
@@ -366,7 +366,7 @@
             "id": "1fDHw3l1niEN4sWphcmwhV"
           },
           {
-            "number": "4.9",
+            "number": "4.7",
             "text": "Average customer ratings out of 5.00!",
             "alignment": "start",
             "layout": "horizontal",
