@@ -6,10 +6,10 @@
     "layout": "overlay",
     "darkMode": false,
     "logo": {
-      "url": "/bb-full-logo.png",
+      "url": "/bb.logo.svg",
       "title": "",
-      "width": 1055,
-      "height": 160
+      "width": 65,
+      "height": 65
     },
     "hotButtons": [],
     "menu": [
