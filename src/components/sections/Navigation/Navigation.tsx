@@ -30,7 +30,7 @@ const Logo: React.FC<{ redirectUrl?: string; logo: MediaType }> = ({
       rounded="none"
     />
     <h2
-      className='place-content-center font-bold font-heading text-3xl ml-4 dark:filter dark:invert dark:brightness-0'
+      className='place-content-center font-bold font-heading text-xl md:text-3xl ml-2 md:ml-4 dark:filter dark:invert dark:brightness-0'
     >
       BetterBills
     </h2>
