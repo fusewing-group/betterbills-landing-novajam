@@ -17,20 +17,26 @@ const Logo: React.FC<{ redirectUrl?: string; logo: MediaType }> = ({
   redirectUrl,
   logo,
 }) => (
-  <Link href={redirectUrl ?? '/'} className="flex max-h-14">
+  <Link
+    href={redirectUrl ?? '/'}
+    className="flex max-h-14 items-center"
+  >
     <Image
-      className="dark:filter dark:grayscale p-3 lg:p-1"
+      className="p-3 lg:p-1"
       data={logo}
       alt={logo.title ?? 'Logo'}
       priority
       fallbackSrc="/logo.webp"
       rounded="none"
     />
-    <h2 className="place-content-center font-bold font-heading text-xl md:text-3xl ml-2 md:ml-4 dark:filter dark:invert dark:brightness-0">
+    <h2
+      className="place-content-center font-bold font-heading text-3xl ml-4 text-black dark:text-white"
+    >
       BetterBills
     </h2>
   </Link>
 );
+
 
 const Header: React.FC<{ data: NavigationType }> = ({ data }) => {
   const {
