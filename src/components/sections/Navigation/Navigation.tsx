@@ -17,10 +17,7 @@ const Logo: React.FC<{ redirectUrl?: string; logo: MediaType }> = ({
   redirectUrl,
   logo,
 }) => (
-  <Link
-    href={redirectUrl ?? '/'}
-    className="flex max-h-14 items-center"
-  >
+  <Link href={redirectUrl ?? '/'} className="flex max-h-14 items-center">
     <Image
       className="p-3 lg:p-1"
       data={logo}
@@ -29,14 +26,11 @@ const Logo: React.FC<{ redirectUrl?: string; logo: MediaType }> = ({
       fallbackSrc="/logo.webp"
       rounded="none"
     />
-    <h2
-      className="place-content-center font-bold font-heading text-3xl ml-4 text-black dark:text-white"
-    >
+    <h2 className="place-content-center font-bold font-heading text-3xl ml-4 text-black dark:text-white">
       BetterBills
     </h2>
   </Link>
 );
-
 
 const Header: React.FC<{ data: NavigationType }> = ({ data }) => {
   const {
